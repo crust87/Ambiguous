@@ -4,5 +4,5 @@
 그러니까 우리는 흔히 현업 커뮤니케이션에서 자주 나타나는 기술과 용어를 딱 맞지는 않지만 틀리지도 않는 정도로만 문서화하여 서로의 갭을 좁히도록하자. 단 주의할 점으로 이 문서는 단지 참고용일 뿐이지 근거, 인용의 대상이 아님을 분명히한다.<br />
 
 ## 어떤순서대로 쓸까~요?
-1. [서버-클라이언트](https://github.com/crust87/Ambiguous/tree/master/ClientAndServer, "server-client link")
+1. [서버-클라이언트](https://github.com/crust87/Ambiguous/tree/master/ClientAndServer "server-client link")
 2. 네트워크
