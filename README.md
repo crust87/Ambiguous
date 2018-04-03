@@ -5,4 +5,4 @@
 
 ## 어떤순서대로 쓸까~요?
 1. [서버-클라이언트](https://github.com/crust87/Ambiguous/tree/master/ClientAndServer "server-client link")
-2. 네트워크
+2. [네트워크](https://github.com/crust87/Ambiguous/tree/master/Network "network link")
